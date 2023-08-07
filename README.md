@@ -1,5 +1,5 @@
 # 💫 About Me:
- I am an enthusiastic and motivated beginner full stack developer with a passion for creating innovative web applications. With a solid foundation in front-end technologies such as HTML, CSS, and JavaScript, coupled with backend expertise in Node.js and Express, I am eager to contribute my skills to dynamic and collaborative projects.<br> I am constantly expanding my knowledge and staying up-to-date with the latest industry trends and best practices.
+ I am an enthusiastic and motivated full stack developer with a passion for creating innovative web applications. With a solid foundation in front-end technologies such as HTML, CSS, and JavaScript, coupled with backend expertise in Node.js and Express, I am eager to contribute my skills to dynamic and collaborative projects.<br> I am constantly expanding my knowledge and staying up-to-date with the latest industry trends and best practices.
 
 
 # 💻 Tech Stack:
